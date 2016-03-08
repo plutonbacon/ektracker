@@ -1,0 +1,7 @@
+# RubyGems-related
+.bundle/
+Gemfile.lock
+vendor/
+
+# App-specific
+artifacts/
